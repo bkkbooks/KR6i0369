@@ -16,11 +16,11 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR6i0369_000.yaml, hash: 'sha256:50b587dd849c5af96eee65d0c15cd31e93c902ce3d9c5eac1a3f60028b8f8006'}
-  - {seq: 1, filename: KR6i0369_001.yaml, hash: 'sha256:78b7e54406f2f530855cdf787f821351edfaeee2e44cff16f5881c6dadefa829'}
+  - {seq: 0, filename: KR6i0369_000.yaml, hash: 'sha256:f8fccda39b3d10962c32d7b14aecdd7f319f4106005b9c81a75a05189a6a5cfc'}
+  - {seq: 1, filename: KR6i0369_001.yaml, hash: 'sha256:acbe319da641a974c09c3c9edf161d88691f2e711584797a0c93de6d976c12f8'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6i0369_000.markers.yaml, hash: 'sha256:fceda9c4a36b3218c47db115443e3dd8edef3ffdded634680634e6ed1e3890a6'}
-  - {seq: 1, role: markers, filename: assets/KR6i0369_001.markers.yaml, hash: 'sha256:5a1857989914bd54f8b7498705eb1e176913e503a1e94e56fa8690cce6b6814f'}
+  - {seq: 0, role: markers, filename: assets/KR6i0369_000.markers.yaml, hash: 'sha256:c283a5051d974e82e06eee3978417462db4648b42d1c58a1808248729c6d2b2b'}
+  - {seq: 1, role: markers, filename: assets/KR6i0369_001.markers.yaml, hash: 'sha256:bb79d57a4e2745ef5e06934b325627c37d0de53c1f6e87d1614007d82e40cd14'}
 table_of_contents:
 - ref:
     seq: 0
@@ -62,9 +62,6 @@ table_of_contents:
   label: 佛說盂蘭盆經疏科文
   type: juan
   level: 1
-hash: sha256:60fbfc9ba792f02d7b9ea0fb2b3606aee8390969c6c48120f6879dd57b407dd0
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:8cd6ee72c9fd7b55547279b692f87e9206f6c0d93cf80a22b7507d7b3edd713c
 editions:
 - short: X

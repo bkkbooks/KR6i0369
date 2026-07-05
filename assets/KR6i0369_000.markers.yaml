@@ -28,9 +28,7 @@ markers:
   - {type: line-break, offset: 40, content: '', id: KR6i0369_X_000-0737a03, ed: R094, 'n': 0737a03}
   - {type: punctuation, offset: 47, content: 。, id: KR6i0369_X_000-bkkpn14}
   - {type: punctuation, offset: 53, content: ，, id: KR6i0369_X_000-bkkpn15}
-  - {type: substitution, offset: 53, original: 累, replacement: 纍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4527}}
   - {type: punctuation, offset: 57, content: ，, id: KR6i0369_X_000-bkkpn16}
-  - {type: substitution, offset: 58, original: 脩, replacement: 修, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0760}}
   - {type: line-break, offset: 60, content: '', id: KR6i0369_X_000-0508a07, ed: X, 'n': 0508a07}
   - {type: line-break, offset: 60, content: '', id: KR6i0369_X_000-0737a04, ed: R094, 'n': 0737a04}
   - {type: punctuation, offset: 61, content: ，, id: KR6i0369_X_000-bkkpn17}
@@ -109,7 +107,6 @@ markers:
   - {type: xml-element, offset: 313, content: '', id: pX21p0508a1915, name: p, role: open, attrs: {'xml:id': pX21p0508a1915, 'cb:place': inline}}
   - {type: line-break, offset: 314, content: '', id: KR6i0369_X_000-0508a20, ed: X, 'n': 0508a20}
   - {type: line-break, offset: 314, content: '', id: KR6i0369_X_000-0737a17, ed: R094, 'n': 0737a17}
-  - {type: substitution, offset: 322, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: line-break, offset: 328, content: '', id: KR6i0369_X_000-0508a21, ed: X, 'n': 0508a21}
   - {type: line-break, offset: 328, content: '', id: KR6i0369_X_000-0737a18, ed: R094, 'n': 0737a18}
   - {type: indent, offset: 336, content: 　, id: KR6i0369_X_000-bkkind1}
@@ -221,4 +218,4 @@ markers:
   - {type: line-break, offset: 481, content: '', id: KR6i0369_X_000-0738a01, ed: R094, 'n': 0738a01}
   body: []
   back: []
-hash: sha256:fceda9c4a36b3218c47db115443e3dd8edef3ffdded634680634e6ed1e3890a6
+hash: sha256:c283a5051d974e82e06eee3978417462db4648b42d1c58a1808248729c6d2b2b
