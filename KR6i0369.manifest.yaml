@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0369/v1
 canonical_location: https://kanripo.org/bkk/KR6i0369/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 盂蘭盆經疏孝衡鈔科
   identifiers:
@@ -16,11 +16,11 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR6i0369_000.yaml, hash: 'sha256:f8fccda39b3d10962c32d7b14aecdd7f319f4106005b9c81a75a05189a6a5cfc'}
-  - {seq: 1, filename: KR6i0369_001.yaml, hash: 'sha256:acbe319da641a974c09c3c9edf161d88691f2e711584797a0c93de6d976c12f8'}
+  - {seq: 0, filename: KR6i0369_000.yaml, hash: 'sha256:a0c1ce6bb457fd3494883526f26775e0686eb3dac5cda6d825ef60ad727f9af7'}
+  - {seq: 1, filename: KR6i0369_001.yaml, hash: 'sha256:cfa683ae414f81785913d202d167b7a5e2a62d49cc8ccb3f8c29467783849ff5'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6i0369_000.markers.yaml, hash: 'sha256:c283a5051d974e82e06eee3978417462db4648b42d1c58a1808248729c6d2b2b'}
-  - {seq: 1, role: markers, filename: assets/KR6i0369_001.markers.yaml, hash: 'sha256:bb79d57a4e2745ef5e06934b325627c37d0de53c1f6e87d1614007d82e40cd14'}
+  - {seq: 0, role: markers, filename: assets/KR6i0369_000.markers.yaml, hash: 'sha256:ac2435a13cc3a23b1796188e6d19e5cb3721da04b420a7f1a7a942a323628f3d'}
+  - {seq: 1, role: markers, filename: assets/KR6i0369_001.markers.yaml, hash: 'sha256:bb49cbb58e80ed21e0d134affd6b29b246d7f21c4cd70f8ee6e6a2bbe33b54bf'}
 table_of_contents:
 - ref:
     seq: 0
@@ -62,6 +62,9 @@ table_of_contents:
   label: 佛說盂蘭盆經疏科文
   type: juan
   level: 1
-hash: sha256:8cd6ee72c9fd7b55547279b692f87e9206f6c0d93cf80a22b7507d7b3edd713c
+hash: sha256:9e01514913440664b314adc0925d580d579905bbd3b25025f65d885cce14ed84
 editions:
 - short: X
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
