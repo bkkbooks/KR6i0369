@@ -16,17 +16,17 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR6i0369_000.yaml, hash: 'sha256:a0c1ce6bb457fd3494883526f26775e0686eb3dac5cda6d825ef60ad727f9af7'}
+  - {seq: 0, filename: KR6i0369_000.yaml, hash: 'sha256:a97fb5f260dbe67e9884a9f3d09e3a4119572e1069af1e7a658a2911fe521573'}
   - {seq: 1, filename: KR6i0369_001.yaml, hash: 'sha256:cfa683ae414f81785913d202d167b7a5e2a62d49cc8ccb3f8c29467783849ff5'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6i0369_000.markers.yaml, hash: 'sha256:ac2435a13cc3a23b1796188e6d19e5cb3721da04b420a7f1a7a942a323628f3d'}
+  - {seq: 0, role: markers, filename: assets/KR6i0369_000.markers.yaml, hash: 'sha256:55fe10b81397f4b855819d3969c8e5b7891352e758dfbc028ade7b9acd3c068e'}
   - {seq: 1, role: markers, filename: assets/KR6i0369_001.markers.yaml, hash: 'sha256:bb49cbb58e80ed21e0d134affd6b29b246d7f21c4cd70f8ee6e6a2bbe33b54bf'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6i0369_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 374-A
@@ -36,7 +36,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0369_X_000-mulu-2
     span:
-    - front
+    - body
     - 341
     - 341
   label: No. 374-B
@@ -46,7 +46,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0369_X_000-mulu-3
     span:
-    - front
+    - body
     - 481
     - 481
   label: 佛說盂蘭盆經疏科文
@@ -62,7 +62,7 @@ table_of_contents:
   label: 佛說盂蘭盆經疏科文
   type: juan
   level: 1
-hash: sha256:9e01514913440664b314adc0925d580d579905bbd3b25025f65d885cce14ed84
+hash: sha256:50b4c55dc4ad725f0c2bbb629f4eb4b203285c2aa86d33e5e9afa956cf2b9ce3
 editions:
 - short: X
 mappings:
